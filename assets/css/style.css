@@ -24,6 +24,10 @@
   left: 25%;
 }
 
+a:visited {
+  color: orangered;
+}
+
 .menu {
   position: absolute;
   width: 40%;
@@ -35,9 +39,14 @@
 .menu a {
   display: block;
   color: white;
+  opacity: 0.6;
   font-size: 14px;
   text-decoration: none;
   margin-bottom: 15px;
+}
+
+.menu a.marcado {
+  opacity: 1;
 }
 
 .principal {
@@ -45,4 +54,8 @@
   float: right;
   width: 76%;
   height: 100vh;
+}
+
+.principal div {
+  margin-top: 30%;
 }
