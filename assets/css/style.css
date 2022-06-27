@@ -2,6 +2,26 @@
   margin: 0;
   padding: 0;
 }
+
+.barralateral {
+  position: absolute;
+  background-color: #007a87;
+  width: 22%;
+  height: 100%;
+}
+
 .foto {
-  width: 10%;
+  width: 40%;
+  position: relative;
+  top: 30%;
+  left: 25%;
+  text-align: center;
+}
+
+.menu {
+  width: 40%;
+  position: relative;
+  top: 33%;
+  left: 25%;
+  text-align: center;
 }
