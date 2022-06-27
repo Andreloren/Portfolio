@@ -56,6 +56,10 @@ a:visited {
   height: 100vh;
 }
 
-.principal div {
-  margin-top: 30%;
+.principal {
+  margin-top: 20%;
+}
+
+.dados {
+  margin-top: 3%;
 }
