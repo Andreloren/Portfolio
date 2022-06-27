@@ -4,23 +4,38 @@
 }
 
 .barralateral {
-  position: relative;
+  position: fixed;
   background-color: #007a87;
   width: 22%;
-  height: 100vh;
+  height: 100%;
 }
 
 .foto {
   width: 40%;
   position: absolute;
+  border-radius: 50%;
+  border: 4px solid #22a7b5;
   top: 30%;
   left: 25%;
 }
 
 .menu {
-  width: 40%;
   position: absolute;
-  top: 50%;
-  left: 23%;
+  width: 40%;
+  top: 53%;
+  left: 25%;
   text-align: center;
+}
+
+.menu a {
+  display: block;
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.principal {
+  top: 0;
+  height: 100vh;
 }
