@@ -6,6 +6,7 @@
 .corpo {
   width: 100vw;
   height: 100vh;
+  overflow: hidden;
 }
 
 .barralateral {
@@ -54,12 +55,38 @@ a:visited {
   float: right;
   width: 76%;
   height: 100vh;
+  margin-top: 14%;
 }
 
-.principal {
-  margin-top: 20%;
+section.principal h2 {
+  font-size: 40px;
+}
+
+section.principal h3 {
+  font-size: 21px;
+  color: rgb(95, 86, 86);
 }
 
 .dados {
+  margin-top: 1%;
+}
+
+#email {
+  color: rgb(95, 86, 86);
+  text-decoration: none;
+}
+
+.descricao {
+  margin-top: 2%;
+  color: rgb(95, 86, 86);
+}
+
+.icones {
   margin-top: 3%;
+}
+
+.icones a {
+  color: #22a7b5;
+  font-size: 30px;
+  margin: 0px 15px 0px 0px;
 }
