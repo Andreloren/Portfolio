@@ -66,6 +66,13 @@ section.principal ol {
   font-weight: bold;
 }
 
+section.principal ul {
+  margin: 3px 0px 0px 40px;
+  font-size: 22px;
+  font-weight: bold;
+  list-style-type: circle;
+}
+
 section.principal h2 {
   font-size: 40px;
 }
