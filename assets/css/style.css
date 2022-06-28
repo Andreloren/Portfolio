@@ -59,6 +59,13 @@ a:visited {
   margin-top: 14%;
 }
 
+section.principal ol {
+  list-style-type: upper-alpha;
+  margin: 3px 0px 0px 40px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
 section.principal h2 {
   font-size: 40px;
 }
