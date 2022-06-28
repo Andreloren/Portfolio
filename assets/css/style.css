@@ -26,10 +26,6 @@
   left: 25%;
 }
 
-a:visited {
-  color: orangered;
-}
-
 .menu {
   position: absolute;
   width: 40%;
