@@ -80,6 +80,7 @@ section.principal h3 {
 .descricao {
   margin-top: 2%;
   color: rgb(95, 86, 86);
+  text-align: justify;
 }
 
 .icones {
