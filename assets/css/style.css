@@ -75,6 +75,12 @@ section.principal h3 {
   color: rgb(95, 86, 86);
 }
 
+section.principal h4 {
+  color: #22a7b5;
+  font-size: 30px;
+  margin: -10px 0px 20px -26px;
+}
+
 .dados {
   margin-top: 1%;
 }
